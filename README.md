@@ -2,7 +2,14 @@
 
 A simple JavaScript dice game where two players roll dice and the higher number wins.
 
-## Screenshots
+## How to Play
+
+1. Open the `index.html` file in your web browser.
+2. The left side of the page displays the image of the dice rolled by Player 1, and the right side displays the image of the dice rolled by Player 2.
+3. The game will automatically determine the winner or declare a draw based on the dice rolls.
+4. The result will be displayed at the top of the page, indicating which player won or if it was a draw.
+
+## Screenshots :
 
 <table>
   <tr>
@@ -10,13 +17,6 @@ A simple JavaScript dice game where two players roll dice and the higher number 
     <td><img alt="Dice game Screenshot 2" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/Dice-Game/main/images/screenshort2.png"></td>
   </tr>
 </table>
-
-## How to Play
-
-1. Open the `index.html` file in your web browser.
-2. The left side of the page displays the image of the dice rolled by Player 1, and the right side displays the image of the dice rolled by Player 2.
-3. The game will automatically determine the winner or declare a draw based on the dice rolls.
-4. The result will be displayed at the top of the page, indicating which player won or if it was a draw.
 
 ## Game Logic
 
