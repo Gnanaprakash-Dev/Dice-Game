@@ -41,8 +41,7 @@ if (randomNumber > randomNumber1) {
     heading.innerHTML = "Player 2 Wins 🚩";
 } else {
     heading.innerHTML = "Draw!";
-}
-
+} ```
 
 ## Credits
 
@@ -51,3 +50,6 @@ This project was created by ME.
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+
